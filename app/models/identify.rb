@@ -1,0 +1,2 @@
+class Identify < ApplicationRecord
+end
